@@ -1,0 +1,17 @@
+CAROLINE MELLO ARQUITETURA — SITE
+
+Abra o arquivo index.html no navegador para visualizar o site.
+
+Arquivos:
+- index.html = estrutura e textos
+- style.css = identidade visual e responsividade
+- script.js = interações futuras
+- assets/ = imagens usadas no portfólio
+
+Para publicar no Canva, Wix ou outro construtor, os textos e a estrutura podem ser reproduzidos a partir do index.html.
+
+WhatsApp: (14) 99605-8512
+E-mail: caroline.arq1@outlook.com
+Atendimento: Bauru e região — SP
+Público-alvo: médio e alto padrão
+Objetivo: apresentar portfólio e gerar contatos
